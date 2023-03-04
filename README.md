@@ -1,5 +1,5 @@
 # sd_tools
-Welcome to the "Awesome Stable Diffusion Prompt" repository! It can help you generate images or train models on colab or kaggle using Stable Diffusion or Stable Diffusion WebUI.
+Welcome to the "sd_tools" repository! It can help you generate images or train models on colab or kaggle using Stable Diffusion or Stable Diffusion WebUI.
 
 
 
