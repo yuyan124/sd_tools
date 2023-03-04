@@ -7,7 +7,11 @@ Welcome to the "sd_tools" repository! It can help you generate images or train m
 
 ### sdwebui_paint.ipynb
 
-Open `sdwebui_paint.ipynb`, there is `open in colab` tab at the top, click to jump to the colab. Change the hardware acceleration to `GPU`, run all cells, wait for the run to complete until the cell output gives a link, click on the link, Enjoy it.
+1. Open `sdwebui_paint.ipynb`. 
+2. There is `open in colab` tab at the top, Click to jump to the colab. 
+3. Change the hardware acceleration to `GPU`.
+4. Run all cells, wait for the run to complete until the cell output gives a link.
+5. Click on the link, Enjoy it.
 
 > The notebook has some built-in plugins and some links to models, For the model you want to use, you can uncomment the previous comment. **ControlNet** is also built in.
 
@@ -15,9 +19,11 @@ Open `sdwebui_paint.ipynb`, there is `open in colab` tab at the top, click to ju
 
 ### kohya_sd_scripts.ipynb
 
-Open `sdwebui_paint.ipynb`, there is `open in colab` tab at the top, click to jump to the colab. Change the hardware acceleration to `GPU`。
-
-Modify the training dataset path, adjusting the relevant training parameters, run all cells, Waiting for training to be completed。
+1. Open `sdwebui_paint.ipynb`.
+2. There is `open in colab` tab at the top, click to jump to the colab. 
+3. Change the hardware acceleration to `GPU`。
+4. Modify the training dataset path, adjusting the relevant training parameters.
+5. Run all cells, Waiting for training to be completed。
 
 
 
